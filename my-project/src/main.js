@@ -5,6 +5,7 @@ import ElementUI from 'element-ui'
 import '@/assets/styles/reset.css'
 import '@/assets/styles/border.css'
 import 'element-ui/lib/theme-chalk/index.css'
+import '@/assets/styles/iconfont.css'
 
 Vue.use(ElementUI);
 
